@@ -1,0 +1,18 @@
+:root {
+    --black: #000000;
+    --primary: #0f56b3;
+    --blue-bg: #C5DCFA;
+    --grey-2: #787878;
+    --grey-1: #ece7e7;
+    --white: #ffffff;
+    --subtitle1: normal 700 1rem/150% 'Manrope';
+    --overline: normal 800 .625rem/158% 'Manrope';
+    --body1: normal 400 .8rem/150% 'Manrope';
+
+}
+
+body {
+    margin: 0;
+    color: var(--black);
+    font: var(--body1)
+}
